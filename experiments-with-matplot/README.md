@@ -1,0 +1,1 @@
+This is just me playing with the built in functions in Numpy and matplotlib, coming up with different graphs.
